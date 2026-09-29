@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用名称 -->
+    <string name="app_name">Ch02_01_TextViewImageView</string>
+
+    <!-- 页面标题 -->
+    <string name="title_demo">Demo 2.1 TextView 和 ImageView</string>
+
+    <!-- 页面介绍文字 -->
+    <string name="intro_text">本页面使用垂直方向的 LinearLayout 排列内容：上方显示文字，下方显示一张保存在 drawable 目录中的本地图片。</string>
+
+    <!-- 图片说明（要求：图片说明必须通过 TextView 显示） -->
+    <string name="image_description">图片说明：WorkBuddy Logo\n（本地图片 logo_workbuddy.png，来自 res/drawable）</string>
+</resources>

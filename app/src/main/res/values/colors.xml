@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 品牌主色（标题栏） -->
+    <color name="brand_primary">#4C5FE8</color>
+    <color name="brand_dark">#3A4CC4</color>
+
+    <!-- 图片背景与次要文字颜色 -->
+    <color name="image_background">#F1F3F5</color>
+    <color name="text_secondary">#666666</color>
+</resources>
